@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303841</color>
+    <color name="colorPrimaryDark">#2B323C</color>
+    <color name="colorAccent">#334253</color>
+    <color name="colorBG">#ffebee</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRegBG">#edf0f2</color>
+    <color name="colorLoginBG">#e7f4ea</color>
+    <color name="colorInStoke">#4CAF50</color>
+    <color name="colorOutStoke">#6E6D6D</color>
+
+
+    <color name="indicator_1">#E91E63</color>
+    <color name="indicator_2">#9C27B0</color>
+    <color name="indicator">#55B3C2</color>
+    <color name="red">#FF1100</color>
+    <color name="colorOpenMap">#009688</color>
+
+</resources>
